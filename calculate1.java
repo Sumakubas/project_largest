@@ -23,5 +23,9 @@ class result {
         System.out.println("Substraction=" + c.sub(7, 3));
         System.out.println("Multiplication=" + c.multi(5, 3));
         System.out.println("Division=" + c.div(10, 5));
+        //system.out.println("Area of rectangle"+c.area_recta(op1:10,op2:5))
+        //system.out.println("Area of trianle"+c.area_tra(op1:10,op2:5))
+
+
     }
 }
